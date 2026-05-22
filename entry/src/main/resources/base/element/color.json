@@ -1,0 +1,84 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#080D11"
+    },
+    {
+      "name": "bg_primary",
+      "value": "#080D11"
+    },
+    {
+      "name": "face_bg",
+      "value": "#0D1419"
+    },
+    {
+      "name": "panel_bg",
+      "value": "#17241F"
+    },
+    {
+      "name": "mode_panel_bg",
+      "value": "#161D29"
+    },
+    {
+      "name": "chip_bg",
+      "value": "#20262E"
+    },
+    {
+      "name": "progress_bg",
+      "value": "#183E35"
+    },
+    {
+      "name": "text_primary",
+      "value": "#F5F8FA"
+    },
+    {
+      "name": "text_secondary",
+      "value": "#BCC7CF"
+    },
+    {
+      "name": "text_tertiary",
+      "value": "#82919B"
+    },
+    {
+      "name": "route_primary",
+      "value": "#7BD88F"
+    },
+    {
+      "name": "action_bg",
+      "value": "#0E8A76"
+    },
+    {
+      "name": "secondary_button_bg",
+      "value": "#2B3842"
+    },
+    {
+      "name": "stop_bg",
+      "value": "#B23A48"
+    },
+    {
+      "name": "link_text",
+      "value": "#8DB7FF"
+    },
+    {
+      "name": "button_text",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "mode_double_touch",
+      "value": "#FFB84D"
+    },
+    {
+      "name": "mode_accessible",
+      "value": "#7BD88F"
+    },
+    {
+      "name": "mode_fallback",
+      "value": "#8DB7FF"
+    },
+    {
+      "name": "mode_standard",
+      "value": "#B8C7D1"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "string": [
+    {
+      "name": "app_name",
+      "value": "Accessible Transit Start"
+    },
+    {
+      "name": "module_desc",
+      "value": "Accessible transit start wearable codelab"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Checks accessibility state before a mock transit walk"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "Accessible Transit Start"
+    },
+    {
+      "name": "start_walking",
+      "value": "Start Walking"
+    },
+    {
+      "name": "refresh_status",
+      "value": "Refresh Status"
+    },
+    {
+      "name": "walking_started",
+      "value": "Walking Started"
+    },
+    {
+      "name": "guidance_ready",
+      "value": "Mock guidance is active. Keep the next instruction visible."
+    },
+    {
+      "name": "stop",
+      "value": "Stop"
+    },
+    {
+      "name": "route_instruction",
+      "value": "Walk 120 meters to Bus Stop A"
+    },
+    {
+      "name": "route_eta",
+      "value": "ETA: 3 minutes"
+    },
+    {
+      "name": "destination_bus_stop_a",
+      "value": "Bus Stop A"
+    },
+    {
+      "name": "distance_120_m",
+      "value": "120 m"
+    },
+    {
+      "name": "label_to_stop",
+      "value": "to stop"
+    },
+    {
+      "name": "walking_short_instruction",
+      "value": "Walk 120 m"
+    },
+    {
+      "name": "mode_standard",
+      "value": "Standard Mode"
+    },
+    {
+      "name": "mode_accessible",
+      "value": "Accessible Mode"
+    },
+    {
+      "name": "mode_double_touch",
+      "value": "Double-Touch Mode"
+    },
+    {
+      "name": "mode_fallback",
+      "value": "Fallback Mode"
+    },
+    {
+      "name": "touch_single",
+      "value": "Single"
+    },
+    {
+      "name": "touch_double",
+      "value": "Double"
+    },
+    {
+      "name": "touch_none",
+      "value": "None"
+    },
+    {
+      "name": "touch_unknown",
+      "value": "Unknown"
+    },
+    {
+      "name": "label_a11y",
+      "value": "A11y"
+    },
+    {
+      "name": "label_guide",
+      "value": "Guide"
+    },
+    {
+      "name": "label_extensions",
+      "value": "Ext"
+    },
+    {
+      "name": "value_on",
+      "value": "On"
+    },
+    {
+      "name": "value_off",
+      "value": "Off"
+    }
+  ]
+}
